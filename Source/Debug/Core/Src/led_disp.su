@@ -1,0 +1,9 @@
+led_disp.c:12:6:clear_All_Clock	8	static
+<<<<<<< HEAD
+led_disp.c:27:6:set_Number_on_Clock	16	static
+led_disp.c:31:6:clear_Number_on_Clock	16	static
+=======
+led_disp.c:27:6:set_All_Clock	8	static
+led_disp.c:42:6:set_Number_on_Clock	16	static
+led_disp.c:46:6:clear_Number_on_Clock	16	static
+>>>>>>> f3699c7 (add clock when push buttons, still bug)

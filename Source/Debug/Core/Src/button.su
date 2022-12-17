@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+button.c:19:5:isButtonPressed	16	static
+button.c:27:6:subKeyProcess	16	static
+button.c:31:6:getKeyInput	16	static
+=======
+button.c:20:5:isButtonPressed	16	static
+button.c:28:6:subKeyProcess	16	static
+button.c:32:6:getKeyInput	16	static
+>>>>>>> f3699c7 (add clock when push buttons, still bug)
